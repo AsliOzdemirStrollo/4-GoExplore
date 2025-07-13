@@ -39,6 +39,7 @@ GoExplore had only one spreadsheet file.
 4. OLAP & OLTP
 5. Big query
 6. Google Looker Stuido (using big query, data vizualization & dashboards)
+7. What makes a good dashboard
 
 ## Approach
 
