@@ -55,8 +55,7 @@ Our approach to solving the problem is 4-step:
 
 ## Presentation
 
-
-**Presentation Photos**
+Looker Visualisation Photos
 
 
 
